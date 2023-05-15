@@ -1,2 +1,7 @@
 # BlockNote
-区块链学习笔记
+
+笔记
+
+# myBlog
+
+[myBlog](https://goodflyo.github.io/)
